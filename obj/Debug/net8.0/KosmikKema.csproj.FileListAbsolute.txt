@@ -1,0 +1,14 @@
+C:\Users\HP\Projects\KosmikKema\bin\Debug\net8.0\KosmikKema.exe
+C:\Users\HP\Projects\KosmikKema\bin\Debug\net8.0\KosmikKema.deps.json
+C:\Users\HP\Projects\KosmikKema\bin\Debug\net8.0\KosmikKema.runtimeconfig.json
+C:\Users\HP\Projects\KosmikKema\bin\Debug\net8.0\KosmikKema.dll
+C:\Users\HP\Projects\KosmikKema\bin\Debug\net8.0\KosmikKema.pdb
+C:\Users\HP\Projects\KosmikKema\obj\Debug\net8.0\KosmikKema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Projects\KosmikKema\obj\Debug\net8.0\KosmikKema.AssemblyInfoInputs.cache
+C:\Users\HP\Projects\KosmikKema\obj\Debug\net8.0\KosmikKema.AssemblyInfo.cs
+C:\Users\HP\Projects\KosmikKema\obj\Debug\net8.0\KosmikKema.csproj.CoreCompileInputs.cache
+C:\Users\HP\Projects\KosmikKema\obj\Debug\net8.0\KosmikKema.dll
+C:\Users\HP\Projects\KosmikKema\obj\Debug\net8.0\refint\KosmikKema.dll
+C:\Users\HP\Projects\KosmikKema\obj\Debug\net8.0\KosmikKema.pdb
+C:\Users\HP\Projects\KosmikKema\obj\Debug\net8.0\KosmikKema.genruntimeconfig.cache
+C:\Users\HP\Projects\KosmikKema\obj\Debug\net8.0\ref\KosmikKema.dll
